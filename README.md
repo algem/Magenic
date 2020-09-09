@@ -1,0 +1,2 @@
+# Magenic
+Algem Magenic Exam
